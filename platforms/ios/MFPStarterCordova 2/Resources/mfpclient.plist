@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protocol</key>
+	<string>https</string>
+	<key>host</key>
+	<string>mobilefoundation-wx-qq-server.eu-gb.mybluemix.net</string>
+	<key>port</key>
+	<string>443</string>
+	<key>wlServerContext</key>
+	<string>/mfp/</string>
+	<key>platformVersion</key>
+	<string>8.0.0.00-20160408-1643</string>
+	<key>testWebResourcesChecksum</key>
+	<string>false</string>
+	<key>ignoredFileExtensions</key>
+	<string>png, jpg, jpeg, gif, mp4, mp3</string>
+	<key>wlSecureDirectUpdatePublicKey</key>
+	<string></string>
+	<key>languagePreferences</key>
+	<string>en</string>
+</dict>
+</plist>
