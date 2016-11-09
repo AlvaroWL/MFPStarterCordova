@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BBFD1ED71DD32E7200F237F2"
-               BuildableName = "MFPStarterCordovaTests.xctest"
-               BlueprintName = "MFPStarterCordovaTests"
-               ReferencedContainer = "container:MFPStarterCordova.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
