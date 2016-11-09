@@ -663,6 +663,7 @@
 				BBFD1EE01DD32E7200F237F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MFPStarterCordova" */ = {
 			isa = XCConfigurationList;
