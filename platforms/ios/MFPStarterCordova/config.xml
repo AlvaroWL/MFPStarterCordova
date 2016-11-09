@@ -83,7 +83,7 @@
         <param name="ios-package" value="CDVSplashScreen" />
         <param name="onload" value="true" />
     </feature>
-    <name>MFPStarterCordova 2</name>
+    <name>MFPStarterCordova</name>
     <description>
         A sample Apache Cordova application that pings the MobileFirst Server deployed by Jenkins.
     </description>

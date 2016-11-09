@@ -11,7 +11,7 @@ WL.StaticAppProps = {
   "ENVIRONMENT": "iphone",
   "WORKLIGHT_ROOT_URL": "/apps/services/api/com.ibm.mfpstartercordova/iphone/",
   "APP_SERVICES_URL": "/apps/services/",
-  "APP_DISPLAY_NAME": "MFPStarterCordova 2",
+  "APP_DISPLAY_NAME": "MFPStarterCordova",
   "LOGIN_DISPLAY_TYPE": "embedded",
   "mfpClientCustomInit": false,
   "MESSAGES_DIR": "plugins/cordova-plugin-mfp/worklight/messages"

@@ -124,46 +124,46 @@
     "dependent_plugins": {},
     "modules": [
         {
-            "file": "plugins/cordova-plugin-device/www/device.js",
             "id": "cordova-plugin-device.device",
+            "file": "plugins/cordova-plugin-device/www/device.js",
             "pluginId": "cordova-plugin-device",
             "clobbers": [
                 "device"
             ]
         },
         {
-            "file": "plugins/cordova-plugin-dialogs/www/notification.js",
             "id": "cordova-plugin-dialogs.notification",
+            "file": "plugins/cordova-plugin-dialogs/www/notification.js",
             "pluginId": "cordova-plugin-dialogs",
             "merges": [
                 "navigator.notification"
             ]
         },
         {
-            "file": "plugins/cordova-plugin-globalization/www/GlobalizationError.js",
             "id": "cordova-plugin-globalization.GlobalizationError",
+            "file": "plugins/cordova-plugin-globalization/www/GlobalizationError.js",
             "pluginId": "cordova-plugin-globalization",
             "clobbers": [
                 "window.GlobalizationError"
             ]
         },
         {
-            "file": "plugins/cordova-plugin-globalization/www/globalization.js",
             "id": "cordova-plugin-globalization.globalization",
+            "file": "plugins/cordova-plugin-globalization/www/globalization.js",
             "pluginId": "cordova-plugin-globalization",
             "clobbers": [
                 "navigator.globalization"
             ]
         },
         {
-            "file": "plugins/cordova-plugin-mfp/bootstrap.js",
             "id": "cordova-plugin-mfp.mfp",
+            "file": "plugins/cordova-plugin-mfp/bootstrap.js",
             "pluginId": "cordova-plugin-mfp",
             "runs": true
         },
         {
-            "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
             "id": "cordova-plugin-splashscreen.SplashScreen",
+            "file": "plugins/cordova-plugin-splashscreen/www/splashscreen.js",
             "pluginId": "cordova-plugin-splashscreen",
             "clobbers": [
                 "navigator.splashscreen"
